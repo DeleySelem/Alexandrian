@@ -1,6 +1,6 @@
 ========= A L E X A N D R I A N =========
 
- ------< I N T E L L I G E N C E >------
+ --------< I N T E L L I G E N C E >--------
  
 Alexandrian Intelligence got server_ai
 
