@@ -38,6 +38,9 @@ files included:
 
 -client_ai4.py
 
+-coding_ai_setup.sh (this will install transformers black torch for your offline
+coding)
+
 inputs.json (will be autonomously created)
 
 responses.json (will be autonomously created)
