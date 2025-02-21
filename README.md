@@ -10,6 +10,12 @@ First start the server and then the client,
 
 and there you go.
 
+Run usermode with argument -u [sudo python3 
+
+server_ai5.py -u] to input your own perverted
+
+immoral and unethical world destroying scripts.
+
 
 Write "run programming console" to activate
 
