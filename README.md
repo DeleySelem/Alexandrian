@@ -29,7 +29,7 @@ files included:
 
 -client_ai4.py
 
-inputs.json
+inputs.json (will be autonomously created)
 
-responses.json
+responses.json (will be autonomously created)
 
