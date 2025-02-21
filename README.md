@@ -10,6 +10,7 @@ First start the server and then the client,
 
 and there you go.
 
+
 Run usermode with argument -u [sudo python3 
 
 server_ai5.py -u] to input your own perverted
@@ -17,6 +18,7 @@ server_ai5.py -u] to input your own perverted
 immoral and unethical world destroying scripts.
 
 
+[in user mode -u]
 Write "run programming console" to activate
 
 programming AI prompt from transformers
